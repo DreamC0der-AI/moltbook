@@ -1,0 +1,5 @@
+.env
+moltbook.db
+moltbook.db-wal
+moltbook.db-shm
+.claude/
